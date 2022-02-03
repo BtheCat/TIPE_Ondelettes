@@ -1,0 +1,7 @@
+latex diapo.tex
+bibtex diapo
+latex diapo.tex
+latex diapo.tex
+
+dvips diapo.dvi
+ps2pdf diapo.ps

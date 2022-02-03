@@ -1,0 +1,26 @@
+
+      \begin{tiny}
+      \begin{verbatim}
+module type PIXEL_MATRIX =
+  sig
+    type pixel
+    type pixel_matrix
+    val barycenter : pixel -> float
+    val read_pixels :
+      bitmapFileHeader -> bitmapInfoHeader -> in_channel -> pixel_matrix
+    val write_pixels : out_channel -> pixel_matrix -> unit
+    val read_bmp : string -> pixel_matrix
+    val write_bmp : string -> pixel_matrix -> unit
+    val intmatrix_of_matrix : float Matrix.matrix -> int Matrix.matrix
+    val gray_levels : pixel_matrix -> float Matrix.matrix
+    val pick_color : pixel -> int -> int
+    val extr_uplet : pixel_matrix -> int -> float Matrix.matrix
+    val red_filter : pixel_matrix -> float Matrix.matrix
+    val blue_filter : pixel_matrix -> float Matrix.matrix
+    val green_filter : pixel_matrix -> float Matrix.matrix
+    val combine_filters :
+      int Matrix.matrix ->
+      int Matrix.matrix -> int Matrix.matrix -> pixel_matrix
+  end
+      \end{verbatim}
+      \end{tiny}

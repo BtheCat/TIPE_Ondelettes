@@ -1,0 +1,47 @@
+@article{comp,
+title={Compression, ondelettes et algorithmes aff\'{e}rents},
+author={Szacherski, Pascal},
+month={Janvier},
+year={2008}
+}#
+
+@article{wt,
+title={Wavelets},
+author={K.Poon, Phillip},
+year={2012},
+notes={College of Optical Sciences, University of Arizona}
+}#
+
+@misc{ex_calc,
+title={Exemple de calcul avec l'ondelette de Haar},
+month={march},
+year={2015},
+note={http://www.epm6604b.be/ondelette_haar.html}
+}#
+
+@misc{matlab,
+title={Code matlab},
+author={Carr\'{e}, Philippe AND Cornillet, R\'{e}mi},
+note={Philippe Carr\'{e} professeur de l'universit\'{e} de Poitiers et responsable de l'\'{e}quipe Icones, 
+  et R\'{e}mi Cornillet \'{e}tudiant \`{a} l'ENS de Rennes.}
+}#
+
+@misc{bmp,
+title={Code pour la gestion des images bmp},
+author={Lorenzi, Marc},
+note={Professeur de math\'{e}matiques au Lyc\'{e}e Camille Gu\'{e}rin de Poitiers}
+}#
+
+@article{twt,
+title={La Transformation en ondelettes},
+author={Alt, Ren\'{e}},
+note={Professeur \`{a} l'universit\'{e} Pierre et Marie Curie}
+}#
+
+@article{ond,
+title={Ondelettes r\'{e}guli\`{e}res: application \`{a} la compression d'images fixes},
+author={Rioul, Olivier},
+year={1993},
+note={T\'{e}l\'{e}com ParisTech}
+}#
+

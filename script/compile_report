@@ -1,0 +1,7 @@
+latex report_v2.tex
+bibtex diapo
+latex report_v2.tex
+latex report_v2.tex
+
+dvips report_v2.dvi
+ps2pdf report_v2.ps

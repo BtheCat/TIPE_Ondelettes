@@ -1,0 +1,42 @@
+Compression, ondelettes et algorithmes afferents
+    Pascal Szacherski
+    8 janvier 2008
+
+Wavelets
+    Phillip K.Poon
+    College of Optical Sciences, University of Arizona, Tucson, Arizona
+    2012
+
+Code Matlab
+    Philippe Carre et Remi Cornillet
+
+    Professeur a l'universite de Poitiers, etudiant a l'ENS de Rennes
+
+Code pour la gestion des images bmp
+    Marc Lorenzi
+
+    Professeur au lycee Camille Guerin
+
+La Transformation en ondelettes
+    Rene Alt
+    
+    Professeur a l'universite Pierre et Marie Curie
+
+Introduction aux ondelettes
+    Nizar Ouarti
+
+Exemple de calcul avec l'ondelette de Haar
+    http://www.epm6604b.be/ondelette_haar.html
+
+Ondelettes régulières: application à la compression d’images fixes
+    Olivier Rioul 
+    domain_other
+    Télécom ParisTech
+    1993
+    English
+
+https://fr.mathworks.com/help/matlab/ref/filter.html
+
+https://jpeg.org/jpeg2000/
+
+
